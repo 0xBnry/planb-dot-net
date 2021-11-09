@@ -38,6 +38,7 @@ open the browser of your choice and navigate to `http://localhost:1337`
 Contributions are always welcome!
 
 See `contributing-code.md` for a detailed instruction on *"how to get started with coding*".
+
 See `contributing-content.md` for a detailed instruction on *"how to get started with content*".
 
 ## Authors
