@@ -29,7 +29,7 @@ after installing all packages run:
   npx run dev
 ```
 
-open the browser of your choice and navigate to `http://localhost:1337`
+open the browser of your choice and navigate to `http://localhost:3000`
 
 *Happy Coding!*
 
