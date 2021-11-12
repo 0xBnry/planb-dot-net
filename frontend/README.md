@@ -20,7 +20,7 @@ You can start editing the page by modifying `pages/index.js` or any other page i
 
 Components go into `/components`. You can create subfolders here if wanted. Use the `@components` shortcut for imports. Same applies to ´/utils`.
 
-Tailwdind CSS (including forms and headless UI) is already inclured. We changed the default config so that containers are always centered.
+Tailwdind CSS (including forms and headless UI) is already included. We changed the default config so that containers are always centered.
 
 ## Learn More
 
